@@ -6,8 +6,10 @@ const cors = require('cors');
 //Connecting to database
 mongoose
   .connect(
-    'mongodb+srv://cariasj:QAkOkuLUarqYsDvL@sicaapp.uezet7u.mongodb.net/?retryWrites=true&w=majority',
-    { dbName: 'sicaApp' }
+    'mongodb+srv://anajg1993:EtmOnorHIRQBZVux@mysicaapp.pfxjhdk.mongodb.net/'
+    ,
+    { dbName: 'MySicaApp' }
+    //CUENTA CON EMAIL ANAJG1993@HOTMAIL.COM https://cloud.mongodb.com/
   )
   .then(() => console.log('Database connected!'));
 
