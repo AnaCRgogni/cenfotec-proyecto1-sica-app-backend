@@ -37,4 +37,4 @@ If you would like to contribute to this project, you can fork the repository and
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Credit
-Credit to all contributors listed on this projec, since the app is possible thanks to all their contributions and work.
+Credit to all contributors listed on this project.
